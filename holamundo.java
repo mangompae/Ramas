@@ -1,6 +1,8 @@
-public class holamundo{
+class holamundo{
     public static void main(String[] args) {
-        System.err.println("Hola Mundo");
-        System.err.println("Hola siu");
-    }
+        String rojo="\033[32m";
+        String azul="\033[34m";
+        System.out.println("Hoal mundi");
+        System.out.println("Hoal mundi");
+}
 }
